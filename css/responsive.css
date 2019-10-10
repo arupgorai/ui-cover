@@ -1,0 +1,26 @@
+/* for mobile device */
+@media (max-width: 575px){
+
+}
+
+
+/* for tablet device */
+@media (min-width: 576px) and (max-width: 767px){
+
+}
+
+
+/* for medium screen devices  */
+@media (min-width: 768px) and (max-width: 991px){
+
+}
+
+
+/* for large screen devices */
+@media (min-width: 992px) and (max-width: 1199px){}
+
+
+/* for extra large screen  */
+@media (min-width: 1200px) {
+
+}
